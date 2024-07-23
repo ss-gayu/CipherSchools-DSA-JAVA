@@ -1,11 +1,17 @@
 # CipherSchools-DSA-JAVA
+
 BINARY SEARCH TREE
+
+
 Introduction to Binary Search Trees (BST)
 A Binary Search Tree (BST) is a data structure that facilitates fast lookup, addition, and deletion operations. The key properties of a BST are:
 
 Node Structure: Each node in a BST contains a key and pointers to its left and right children.
 Ordering Property: For any node, all keys in its left subtree are smaller, and all keys in its right subtree are larger.
 Inorder Traversal: Traversing the tree in inorder (left-root-right) results in sorted order of keys.
+
+
+
 Summary of the Code
 The provided code is a Java implementation of a Binary Search Tree (BST) with basic operations such as insertion, deletion, searching, and displaying the tree in an inorder manner. Additionally, a simple console-based user interface allows users to interact with the BST.
 
